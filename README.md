@@ -7,3 +7,5 @@
 3. Write 'node main.js' on your IDE's terminal to run the server and navigate to localhost:3000 (double-check port number)
 
 # Alternate link to chatbot demo video, if it doesn't open in Github: https://drive.google.com/file/d/1DGF7U9dLPHJLwDN_fo3q-Mpwik-XegKP/view?usp=sharing
+
+P.S. - If you get 'undefined' as response while using the chatbot, it may be due to too many requests at the server end. To solve this, try to send queries with a brief pause.
